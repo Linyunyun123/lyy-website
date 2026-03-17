@@ -12,5 +12,5 @@ website:
 
 format:
   html:
-    theme: default  # 用最基础的主题，避免编译报错
+    theme: default
     toc: false
